@@ -47,3 +47,20 @@ This notebook is an analysis of sales of a company .
   </tr>
 </tbody>
 </table>
+
+
+
+
+
+
+
+
+
+
+| 1.  |  Challenge  | SQL_Solution                   |
+|:---:|:-----------:|--------------------------------|
+| 2.  | Challenge1  | # Author: Thomas George Thomas |
+| 3.  | Challenge2  |                                |
+| 4.  |             |                                |
+| 5.  |             |                                |
+| 6.  |             |                                |
